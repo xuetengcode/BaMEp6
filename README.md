@@ -25,4 +25,4 @@ If you find this project useful, please subscribe to the DigitalPlusPlus channel
 Links
 =====
 Complete project download link: https://drive.google.com/uc?id=1mNWjttma4gZkL77ndcy-31qTXh-c0Hus&export=download
-C# scripts only: https://github.com/digitalplusplus/BaMEp5
+C# scripts only: https://github.com/digitalplusplus/BaMEp6
