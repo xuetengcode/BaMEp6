@@ -21,6 +21,7 @@ During compilation you may get ERROR MESSAGES regarding m_LeftInputMode and m_Ri
 Your role...
 ============
 If you find this project useful, please subscribe to the DigitalPlusPlus channel and join the BaM community. Let us know what features and functionalities you'd like to see in our project and if you can, feel free to help building out the project by fixing bugs or adding great new features that everyone can use.
+ALSO I AM THINKING OF STARTING A PATREON CHANNEL WHERE PATREONS GET ACCESS TO ALL CODE, ADDITIONAL MATERIALS AND CAN ATTEND REGULAR ONLINE PATREON MEETINGS TO DISCUSS TOPICS AND FOR Q&A.
 
 Links
 =====
